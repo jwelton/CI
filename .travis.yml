@@ -1,0 +1,5 @@
+language: objective-c
+osx_image: xcode10.1
+xcode_project: BugReporter.xcodeproj
+xcode_scheme: BugReporter
+xcode_destination: platform=iOS Simulator,OS=12.1,name=iPhone X
